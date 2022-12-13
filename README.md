@@ -1,6 +1,5 @@
-# babisilverio-love-coffee-admin
-Frontend do administrador da aplicação Love Coffee
 # love-coffee-admin
+Frontend do administrador da aplicação Love Coffee
 
 ## Project setup
 ```
