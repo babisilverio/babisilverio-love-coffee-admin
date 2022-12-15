@@ -21,7 +21,6 @@ export default class App extends Vue {
 <style scoped>
   #app, .v_app{
     font-family: Roboto;
-    height: 100vh;
-    overflow-y: hidden;
+    overflow: hidden;
   }
 </style>
