@@ -4,11 +4,7 @@
 
     <MainContainer>
       <div slot="container">
-        <v-text-field
-          label="Produtos"
-          placeholder="Placeholder"
-          outlined
-          ></v-text-field>
+        <h1>Produtos</h1>
       </div>
     </MainContainer>
 

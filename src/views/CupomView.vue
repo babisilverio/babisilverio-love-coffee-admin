@@ -4,11 +4,7 @@
 
     <MainContainer>
       <div slot="container">
-        <v-text-field
-          label="Cupom"
-          placeholder="Placeholder"
-          outlined
-          ></v-text-field>
+        <h1>Cupom</h1>
       </div>
     </MainContainer>
 
@@ -18,7 +14,5 @@
 <script lang="ts" src="@/controller/Cupom.ts"></script>
 
 <style scoped>
-  div {
-    height: 100vh;
-  }
+
 </style>
