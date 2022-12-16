@@ -33,6 +33,18 @@
             <input class="input-1" id="uf" v-model="uf"/>
 
           </v-col>
+
+          <v-row>
+            <v-col cols="6">
+              <v-btn color="#A63B14">
+                Cadastrar
+              </v-btn>
+
+              <v-btn color="#A63B14" outlined>
+                Cancelar
+              </v-btn>
+            </v-col>
+          </v-row>
       </div>
       </div>
     </MainContainer>
@@ -73,5 +85,10 @@
     border-radius: 5px;
     width: 5%;
     height: 40px;
+  }
+
+  .v-btn {
+    color: #FFF;
+    margin: 8px;
   }
 </style>
